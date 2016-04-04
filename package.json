@@ -1,0 +1,23 @@
+{
+  "name": "games-prototyper",
+  "version": "1.0.0",
+  "description": "Prototyping platform for the New York Times Games team",
+  "main": "prototyper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanyoungkim/games-prototyper.git"
+  },
+  "author": "Jean Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanyoungkim/games-prototyper/issues"
+  },
+  "homepage": "https://github.com/jeanyoungkim/games-prototyper#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
